@@ -1,0 +1,7 @@
+Expected output  : 
+               WRITE address 103 → 10
+               WRITE address 104 → 134
+               READ address 103 → 10
+               READ address 3   → X
+               WRITE address 103 → 102
+               READ address 103 → 102
